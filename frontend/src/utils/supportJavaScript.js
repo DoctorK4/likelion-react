@@ -1,3 +1,4 @@
+
 import { addClass, removeClass } from './classNames.js';
 
 const { documentElement: rootElement } = document;
